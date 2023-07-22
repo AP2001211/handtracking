@@ -1,4 +1,4 @@
-# handtracking
+# Handtracking
 This was basically a project I worked on to get some experience with mediapipe, and openCV. 
 
 HandTrackingMin.py
